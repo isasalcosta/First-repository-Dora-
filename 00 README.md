@@ -42,7 +42,6 @@ Meu objetivo é conquistar minha primeira oportunidade em tecnologia como Jovem 
 - `python-faculdade`
 - `projeto-integrador`
 - `html-css-estudos`
-- `calculadora-python` *(em desenvolvimento)*
 
 ---
 
