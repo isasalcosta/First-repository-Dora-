@@ -5,7 +5,6 @@
 
 Atualmente estou construindo meu portfólio em tecnologia através dos exercícios da faculdade e projetos práticos. Tenho interesse em Desenvolvimento Full Stack e estou aprendendo programação, Git e desenvolvimento web.
 
-https://chatgpt.com/s/p_813eb50c1d748191a351fa077d624f49
 ---
 
 ## Tecnologias em aprendizado
