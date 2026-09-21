@@ -15,7 +15,6 @@ Atualmente estou construindo meu portfólio em tecnologia através dos exercíci
 - JavaScript 
 - Git
 - GitHub
-  Eles mostram que você praticou:
 
 ## Os códigos que já fiz
 
