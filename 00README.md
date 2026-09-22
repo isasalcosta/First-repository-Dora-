@@ -16,7 +16,7 @@ Atualmente estou construindo meu portfólio em tecnologia através dos exercíci
 - Git
 - GitHub
 
-## Os códigos que já fiz
+## O que já aprendi 
 
 -Variáveis e input().
 
